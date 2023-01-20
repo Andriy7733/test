@@ -1,2 +1,2 @@
 const test = "test";
-alert("Hello Ukraine!")
+alert("it is not difficult!")
